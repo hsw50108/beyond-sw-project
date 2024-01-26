@@ -68,7 +68,8 @@
 ### ⚙ DB 모델링
 **** ** **
    
-  ![image (1)](https://github.com/yun072/gitproject/assets/140836341/3b43aaa7-4f83-4ea1-8156-35fb8b2dfe9f)
+ ![기반기술 논리모델링](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/d44d7e2f-49ea-4d3c-ace5-f6a91f89f89f)
+
 
 ### ⚙ 표준 단어 사전 
 **** ** **
