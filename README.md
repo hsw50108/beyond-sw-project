@@ -70,6 +70,13 @@
    
   ![image (1)](https://github.com/yun072/gitproject/assets/140836341/3b43aaa7-4f83-4ea1-8156-35fb8b2dfe9f)
 
+### ⚙ 표준 단어 사전 
+**** ** **
+  ![7](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/5c967793-2409-48d4-8d7c-0c85821f94ec)
+  ![8](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/8382aa5a-fb5c-4d47-8dca-d126756004ae)
+  ![9](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/a42d2fbf-be55-4d7b-b1ba-30efed5c6213)
+
+
 ### ⚙ DB 설계를 위한 DDL 구문
 **** ** **
 1) DDL 테이블 생성 구문
