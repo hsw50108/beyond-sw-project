@@ -199,7 +199,6 @@ CREATE TABLE TBL_PRPT_REA (
 </code>
 </pre>
 
-2) 
 
 ### ❗ 설계 검증을 위한 테스트 
 **** ** **
