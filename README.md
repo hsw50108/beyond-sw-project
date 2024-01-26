@@ -73,9 +73,9 @@
 
 ### ⚙ 표준 단어 사전 
 **** ** **
-  ![7](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/5c967793-2409-48d4-8d7c-0c85821f94ec)
-  ![8](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/8382aa5a-fb5c-4d47-8dca-d126756004ae)
-  ![9](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/a42d2fbf-be55-4d7b-b1ba-30efed5c6213)
+ ![123](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/dde092f9-53c7-45d2-9b83-e3eaeec47481)
+ ![789](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/2ef1016c-11a0-4e99-9476-01d72367b30a)
+ ![10](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/40a698cd-c49e-452a-bed6-fac0141c9bd7)
 
 
 ### ⚙ DB 설계를 위한 DDL 구문
