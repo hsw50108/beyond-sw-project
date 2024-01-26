@@ -57,7 +57,8 @@
 
 ### 📃 요구사항 명세서
 **** ** **
-![1](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/a5efef02-b3cb-4779-9f2c-a91dfbdf7fd8)
+![1](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/b24cce5e-f51e-4d8d-9cf7-d95be96422da)
+
 ![2222222](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/4c5cecd7-0d82-4e68-b0df-ef88aac96ae5)
 
 
