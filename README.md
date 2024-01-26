@@ -203,5 +203,9 @@ CREATE TABLE TBL_PRPT_REA (
 ### ❗ 설계 검증을 위한 테스트 
 **** ** **
 
+1) CRUD 작업 테스트 케이스 명세서
+   
+![캡처](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/fd0e3035-e282-48b0-910f-b00b690a8995)
+
 
 
